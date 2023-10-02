@@ -14,6 +14,7 @@
 		5ECDB14C2ACB031E00EED616 /* EditDestinationView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5ECDB14B2ACB031E00EED616 /* EditDestinationView.swift */; };
 		5ECDB14E2ACB034A00EED616 /* Destination.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5ECDB14D2ACB034A00EED616 /* Destination.swift */; };
 		5ECDB1502ACB051D00EED616 /* DestinatonListingView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5ECDB14F2ACB051D00EED616 /* DestinatonListingView.swift */; };
+		5ECDB1522ACB0BB800EED616 /* Sight.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5ECDB1512ACB0BB800EED616 /* Sight.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -25,6 +26,7 @@
 		5ECDB14B2ACB031E00EED616 /* EditDestinationView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EditDestinationView.swift; sourceTree = "<group>"; };
 		5ECDB14D2ACB034A00EED616 /* Destination.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Destination.swift; sourceTree = "<group>"; };
 		5ECDB14F2ACB051D00EED616 /* DestinatonListingView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DestinatonListingView.swift; sourceTree = "<group>"; };
+		5ECDB1512ACB0BB800EED616 /* Sight.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Sight.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,11 +61,12 @@
 			children = (
 				5ECDB13D2ACB02A500EED616 /* iTourApp.swift */,
 				5ECDB13F2ACB02A500EED616 /* ContentView.swift */,
+				5ECDB1512ACB0BB800EED616 /* Sight.swift */,
 				5ECDB14F2ACB051D00EED616 /* DestinatonListingView.swift */,
 				5ECDB14B2ACB031E00EED616 /* EditDestinationView.swift */,
+				5ECDB14D2ACB034A00EED616 /* Destination.swift */,
 				5ECDB1412ACB02A600EED616 /* Assets.xcassets */,
 				5ECDB1432ACB02A600EED616 /* Preview Content */,
-				5ECDB14D2ACB034A00EED616 /* Destination.swift */,
 			);
 			path = iTour;
 			sourceTree = "<group>";
@@ -149,6 +152,7 @@
 				5ECDB14C2ACB031E00EED616 /* EditDestinationView.swift in Sources */,
 				5ECDB1502ACB051D00EED616 /* DestinatonListingView.swift in Sources */,
 				5ECDB1402ACB02A500EED616 /* ContentView.swift in Sources */,
+				5ECDB1522ACB0BB800EED616 /* Sight.swift in Sources */,
 				5ECDB14E2ACB034A00EED616 /* Destination.swift in Sources */,
 				5ECDB13E2ACB02A500EED616 /* iTourApp.swift in Sources */,
 			);
